@@ -1,0 +1,273 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Suman Jayapathi",
+    "label": "Team Lead - Engineering at Xero",
+    "image": "",
+    "email": "sumanjay@yahoo.com",
+    "phone": "",
+    "url": "https://resume.oddysee.com.au",
+    "summary": "I am a Engineering Manager/Principal Engineer with 18 years experience, working with iOS, .NET, AWS and Kubernetes.\n\nI am an active proponent of using automation to reduce toil for engineers, I've hired and built-up multiple cross-disciplinary development teams and directed technical roadmaps for mobile and web products.\n\nMy personal project consists of automating my home whilst hosting open source apps on a self-hosted k8s cluster, using GitOps.",
+    "location": {
+      "address": "60 Hinkler Rd",
+      "postalCode": "3150",
+      "city": "Glen Waverley",
+      "countryCode": "AU",
+      "region": "Victoria"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "suman-jayapathi",
+        "url": "https://www.linkedin.com/in/suman-jayapathi/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Xero",
+      "description": "Beautiful Accounting Software",
+      "position": "Team Lead - Engineering",
+      "startDate": "2018-01-31",
+      "endDate": "2023-03-12",
+      "url": "https://www.xero.com",
+      "location": "Melbourne, Australia",
+      "summary": "Xero's online accounting software automates bookkeeping and other tasks, to connect small business owners with their numbers.",
+      "highlights": [
+        "Led a team to build a JobKeeper calculator in record time which helped 500,000 businesses meet Covid compliance requirements",
+        "Worked in a future-state enablement team to design and deploy strategy frameworks for multiple mobile teams",
+        "Hired and coached multiple lead and principal engineers across backend, frontend, infrastructure and mobile specialisations"
+      ]
+    },
+    {
+      "name": "Xero",
+      "position": "Senior iOS Engineer",
+      "startDate": "2016-01-31",
+      "endDate": "2017-12-31",
+      "url": "https://www.xero.com",
+      "location": "Melbourne, Australia",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Created a "
+      ]
+    },
+    {
+      "name": "CitiPower and Powercor",
+      "position": "Lead Engineer - Mobile and API",
+      "startDate": "2014-03-31",
+      "endDate": "2015-12-31",
+      "highlights": [],
+      "url": "https://www.powercor.com.au/"
+    },
+    {
+      "name": "Liberty Financial Pty Ltd",
+      "position": "Full Stack Engineer",
+      "startDate": "2008-03-31",
+      "endDate": "2014-02-28",
+      "url": "https://www.liberty.com.au/",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "name": "DWS",
+      "position": "Dotnet Consultant",
+      "startDate": "2006-01-31",
+      "endDate": "2008-02-28",
+      "url": "https://www.dws.com.au/",
+      "location": "Melbourne, Victoria, Australia",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "name": "Tech Mahindra (formerly Mahindra Satyam)",
+      "position": "Software Developer",
+      "startDate": "2005-01-31",
+      "endDate": "2006-01-31",
+      "url": "https://www.techmahindra.com/",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "RMIT University",
+      "url": "https://www.ou.edu/",
+      "area": "Information Technology",
+      "studyType": "Master of Science - MS",
+      "startDate": "2003-03-31",
+      "endDate": "2004-12-31",
+      "score": "",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"]
+    },
+    {
+      "institution": "National Institute of Technology Jamshedpur",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Engineering - BE",
+      "startDate": "1998-06-30",
+      "endDate": "2002-04-30",
+      "score": "",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Direction",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Model-view-viewmodel (MVVM)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "People Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Delivery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iOS development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operational Risk Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET Web API",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Coaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Product Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [    {
+    "name": "Erlich Bachman",
+    "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+  }
+],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
