@@ -29,14 +29,13 @@
       "description": "Beautiful Accounting Software",
       "position": "Team Lead - Engineering",
       "startDate": "2018-01-31",
-      "endDate": "2023-03-12",
       "url": "https://www.xero.com",
       "location": "Melbourne, Australia",
       "summary": "Xero's online accounting software automates bookkeeping and other tasks, to connect small business owners with their numbers.",
       "highlights": [
-        "Led a team to build a JobKeeper calculator in record time which helped 500,000 businesses meet Covid compliance requirements",
-        "Worked in a future-state enablement team to design and deploy strategy frameworks for multiple mobile teams",
-        "Hired and coached multiple lead and principal engineers across backend, frontend, infrastructure and mobile specialisations"
+        "As part of a strategy enablement team, I designed and deployed future-state frameworks for product teams",
+        "Hired and coached all levels of engineers across mobile and web specialisations",
+        "Led a team to build a JobKeeper calculator in record time which helped 500,000 businesses meet Covid compliance legislation"
       ]
     },
     {
@@ -46,7 +45,7 @@
       "endDate": "2017-12-31",
       "url": "https://www.xero.com",
       "location": "Melbourne, Australia",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "Xero's online accounting software automates bookkeeping and other tasks, to connect small business owners with their numbers.",
       "highlights": [
         "Created a "
       ]
@@ -67,24 +66,19 @@
       "url": "https://www.liberty.com.au/",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Contributed to iPad and iPhone apps which resulted in Liberty's nomination for Best Innovator at Australian Lending Awards.", 
+        "Built a reusable Objective C framework to build forms to .",
+        "Set up continuous integration for iOS development at Liberty."
       ]
     },
     {
       "name": "DWS",
-      "position": "Dotnet Consultant",
+      "position": ".NET Consultant",
       "startDate": "2006-01-31",
       "endDate": "2008-02-28",
       "url": "https://www.dws.com.au/",
       "location": "Melbourne, Victoria, Australia",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
+      "highlights": []
     },
     {
       "name": "Tech Mahindra (formerly Mahindra Satyam)",
@@ -92,12 +86,7 @@
       "startDate": "2005-01-31",
       "endDate": "2006-01-31",
       "url": "https://www.techmahindra.com/",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -150,17 +139,7 @@
   "publications": [],
   "skills": [
     {
-      "name": "Leadership",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Technical Direction",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Model-view-viewmodel (MVVM)",
+      "name": "Technical Leadership",
       "level": "",
       "keywords": []
     },
@@ -175,37 +154,12 @@
       "keywords": []
     },
     {
-      "name": "Stakeholder Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "iOS development",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Operational Risk Management",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft SQL Server",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "User Experience",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "ASP.NET Web API",
+      "name": "Stakeholder Management",
       "level": "",
       "keywords": []
     },
@@ -216,6 +170,26 @@
     },
     {
       "name": "Product Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iOS development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience",
       "level": "",
       "keywords": []
     }
