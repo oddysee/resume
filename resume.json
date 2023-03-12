@@ -7,7 +7,7 @@
     "email": "sumanjay@yahoo.com",
     "phone": "",
     "url": "https://resume.oddysee.com.au",
-    "summary": "I am a Engineering Manager/Principal Engineer with 18 years experience, working with iOS, .NET, AWS and Kubernetes.\n\nI am an active proponent of using automation to reduce toil for engineers, I've hired and built-up multiple cross-disciplinary development teams and directed technical roadmaps for mobile and web products.\n\nMy personal project consists of automating my home whilst hosting open source apps on a self-hosted k8s cluster, using GitOps.",
+    "summary": "I am a Engineering Manager/Lead Engineer with 18 years experience, working with iOS, .NET, Kubernetes and AWS.\n\nI am an active proponent of using automation to reduce toil for engineers, I've hired and coached multiple cross-disciplinary development teams and directed technical roadmaps for mobile and web products.\n\nMy personal project consists of automating my home whilst self-hosting on a homelab k8s cluster, which is managed with GitOps.",
     "location": {
       "address": "60 Hinkler Rd",
       "postalCode": "3150",
