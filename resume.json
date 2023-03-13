@@ -3,23 +3,30 @@
   "basics": {
     "name": "Suman Jayapathi",
     "label": "Team Lead - Engineering at Xero",
-    "image": "",
+    "image": "img/portrait.png",
     "email": "sumanjay@yahoo.com",
-    "phone": "",
+    "phone": "+61 401 832 841",
     "url": "https://resume.oddysee.com.au",
     "summary": "I am a Team Lead/Engineering Manager with 10+ years experience across Fintech, energy and consulting. I've worked with iOS, .NET, Kubernetes and AWS and I now enjoy systems thinking and coaching people.\n\nI am an active proponent of using automation to reduce toil for my fellow engineers, with a soft spot for standardised tooling and CI/CD. I love working with cross-disciplinary teams to create and deliver outcome-oriented roadmaps for mobile and web products.\n\nMy personal project is about home automation which is self-hosted on a kubernetes cluster using GitOps.",
     "location": {
-      "address": "60 Hinkler Rd",
-      "postalCode": "3150",
-      "city": "Glen Waverley",
-      "countryCode": "AU",
-      "region": "Victoria"
+      "city": "Victoria",
+      "region": "Australia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "suman-jayapathi",
         "url": "https://www.linkedin.com/in/suman-jayapathi/"
+      },
+      {
+        "network": "Github",
+        "username": "oddysee",
+        "url": "https://github.com/oddysee/"
+      },
+      {
+        "network": "Twitter",
+        "username": "oddysee",
+        "url": "https://twitter.com/oddysee"
       }
     ]
   },
@@ -97,14 +104,24 @@
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "Waverley Raiders Basketball Club",
+      "position": "Team Manager - Boys U12 team 2",
+      "url": "https://www.waverleyraiders.com.au/",
+      "startDate": "2022-07-01",
+      "summary": "Basketball team in the Melbourne East Basketball Association league.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Team made it to the Grand Finals of the Winter Season 2022"
+      ]
+    },
+
+    {
+      "organization": "Mount View Primary School",
+      "position": "BikeEd instructor",
+      "url": "https://mountviewps.vic.edu.au/",
+      "startDate": "2022-12-01",
+      "summary": "Teaching 9-10 year old students about safety and health through cycling.",
+      "highlights": [
+        "Coached year 4 students through a 50km cycling expedition."
       ]
     }
   ],
@@ -225,7 +242,8 @@
       "name": "Okoo",
       "description": "A childcare management application that provided childcare centre managers and on-call workers with a mobile and user-friendly way to manage their rosters.",
       "highlights": [
-        "Experimented and introduced Fastlane"
+        "Experimented with and adopted Fastlane to simplify CI",
+        ""
       ],
       "keywords": [
         "Swift",
@@ -246,7 +264,7 @@
       "description": "Online store for marathon runners to get their personalised video snippets of completing the marathon",
       "highlights": [
         "First experience with working with AWS in production.",
-        "Automated creation of C2 EC2 instances to run ffmpeg in parallel for video processing.",
+        "Automated creation of EC2 instances to run ffmpeg in parallel for video processing.",
         "Python services to publish products to Shopify"
       ],
       "keywords": [
