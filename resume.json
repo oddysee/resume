@@ -222,26 +222,43 @@
 ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "Okoo",
+      "description": "A childcare management application that provided childcare centre managers and on-call workers with a mobile and user-friendly way to manage their rosters.",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Experimented and introduced Fastlane"
       ],
       "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
+        "Swift",
+        "iOS",
+        "Push notifications"
       ],
       "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
+      "endDate": "2017-08-24",
       "roles": [
-        "Team lead",
+        "Lead iOS Engineer",
         "Designer"
       ],
-      "entity": "Smoogle",
+      "entity": "Okoo Pty Ltd",
+      "type": "application"
+    },
+    {
+      "name": "SuperSportVideos",
+      "description": "Online store for marathon runners to get their personalised video snippets of completing the marathon",
+      "highlights": [
+        "First experience with working with AWS in production.",
+        "Automated creation of C2 EC2 instances to run ffmpeg in parallel for video processing.",
+        "Python services to publish products to Shopify"
+      ],
+      "keywords": [
+        "Shopify",
+        "AWS",
+        "Python"
+      ],
+      "startDate": "2013-06-01",
+      "endDate": "2014-08-24",
+      "roles": [
+        "Developer"
+      ],
       "type": "application"
     }
   ],
