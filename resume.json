@@ -225,10 +225,17 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Cycling",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Commuting",
+        "Maintenance"
+      ]
+    },
+    {
+      "name": "Basketball",
+      "keywords": [
+        "NBA",
+        "Coaching"
       ]
     }
   ],
