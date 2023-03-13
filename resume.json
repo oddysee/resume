@@ -121,26 +121,19 @@
   "education": [
     {
       "institution": "RMIT University",
-      "url": "https://www.ou.edu/",
+      "url": "https://www.rmit.edu.au/",
       "area": "Information Technology",
       "studyType": "Master of Science - MS",
       "startDate": "2003-03-31",
-      "endDate": "2004-12-31",
-      "score": "",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"]
+      "endDate": "2004-12-31"
     },
     {
       "institution": "National Institute of Technology Jamshedpur",
+      "url": "https://www.nitjsr.ac.in/",
       "area": "Computer Science",
       "studyType": "Bachelor of Engineering - BE",
       "startDate": "1998-06-30",
-      "endDate": "2002-04-30",
-      "score": "",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"]
+      "endDate": "2002-04-30"
     }
   ],
   "awards": [],
@@ -270,6 +263,7 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "flat"
   }
 }
