@@ -7,7 +7,7 @@
     "email": "sumanjay@yahoo.com",
     "phone": "+61 401 832 841",
     "url": "https://resume.oddysee.com.au",
-    "summary": "I am a Team Lead/Engineering Manager with 10+ years experience across Fintech, energy and consulting. I've worked with iOS, .NET, Kubernetes and AWS and I now enjoy systems thinking and coaching people.\n\nI am an active proponent of using automation to reduce toil for my fellow engineers, with a soft spot for standardised tooling and CI/CD. I love working with cross-disciplinary teams to create and deliver outcome-oriented roadmaps for mobile and web products.\n\nMy personal project is about home automation which is self-hosted on a kubernetes cluster using GitOps.",
+    "summary": "I am a Team Lead/Engineering Manager with 10+ years experience across Fintech, energy and consulting. I've worked with iOS, .NET, Kubernetes and AWS and I now enjoy systems thinking and coaching people.\n\nI am an active proponent of using automation to reduce toil for my fellow engineers, with a soft spot for standardised tooling and CI/CD. I love working with cross-disciplinary teams to create and deliver outcome-oriented roadmaps for mobile and web products.\n\nMy personal project is about self-hosting open source apps on a kubernetes cluster on my homelab using GitOps.",
     "location": {
       "city": "Victoria",
       "region": "Australia"
@@ -22,39 +22,32 @@
         "network": "Github",
         "username": "oddysee",
         "url": "https://github.com/oddysee/"
-      },
-      {
-        "network": "Twitter",
-        "username": "oddysee",
-        "url": "https://twitter.com/oddysee"
       }
     ]
   },
   "work": [
     {
       "name": "Xero",
-      "description": "Managing #humans",
       "position": "Team Lead - Engineering",
       "startDate": "2018-01-31",
       "url": "https://www.xero.com",
       "location": "Melbourne, Australia",
-      "summary": "Xero's online accounting software automates bookkeeping and other tasks, to connect small business owners with their numbers.",
+      "summary": "People leadership was new to me, so I worked on it by being a process work and relying on data.",
       "highlights": [
-        "Set up a process to measure how capable Xero's engineers were so that training could be aligned to roadmap needs.",
-        "Hired and grew 3 product teams; including hiring process streamlining and vendor management.",
+        "Introduced an engineering capability matrix so that engineers had the right skillsets to deliver on the mobile roadmap.",
+        "Hired and grew 3 product teams; streamlined the hiring process and learnt how to manage vendors for contracting.",
         "Established quality and delivery practices for engineers based on Accelerate principles and DORA metrics.",
-        "As the sole engineering representative on a mobile strategy team, drove the roll-out of a future vision initiative by designing and deploying a prioritisation framework across 6 teams."
+        "Represented engineering on strategy roll-out, driving the design and deployment of a prioritisation framework across 6 teams."
       ]
     },
     {
       "name": "Xero",
-      "description": "",
       "position": "Senior iOS Engineer",
       "startDate": "2016-01-31",
       "endDate": "2017-12-31",
       "url": "https://www.xero.com",
       "location": "Melbourne, Australia",
-      "summary": "Xero's online accounting software automates bookkeeping and other tasks, to connect small business owners with their numbers.",
+      "summary": "As one of the more experienced engineers, I brought technical leadership and customer-focus to a newly established mobile team.",
       "highlights": [
         "Mentored mobile engineers through the migration of a large codebase from Objective C to Swift 2.",
         "Created a containerised tool for path-to-production compliance that was adopted across the organisation.",
@@ -150,14 +143,7 @@
         "CS2011 - Java Introduction"]
     }
   ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [
@@ -239,18 +225,13 @@
       ]
     }
   ],
-  "references": [    {
-    "name": "Erlich Bachman",
-    "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-  }
-],
+  "references": [],
   "projects": [
     {
       "name": "Okoo",
       "description": "A childcare management application that provided childcare centre managers and on-call workers with a mobile and user-friendly way to manage their rosters.",
       "highlights": [
-        "Experimented with and adopted Fastlane to simplify CI",
-        ""
+        "Experimented with and adopted Fastlane to simplify CI"
       ],
       "keywords": [
         "Swift",
@@ -270,8 +251,7 @@
       "name": "SuperSportVideos",
       "description": "Online store for marathon runners to get their personalised video snippets of completing the marathon",
       "highlights": [
-        "First experience with working with AWS in production.",
-        "Automated creation of EC2 instances to run ffmpeg in parallel for video processing.",
+        "Automated creation of AWS EC2 instances to run ffmpeg in parallel for video processing.",
         "Python services to publish products to Shopify"
       ],
       "keywords": [
