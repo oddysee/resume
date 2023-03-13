@@ -6,7 +6,7 @@
     "image": "img/portrait.png",
     "email": "sumanjay@yahoo.com",
     "phone": "+61 401 832 841",
-    "url": "https://resume.oddysee.com.au",
+    "url": "https://oddysee.github.io/resume/",
     "summary": "I am a Team Lead/Engineering Manager with 10+ years experience across Fintech, energy and consulting. I've worked with iOS, .NET, Kubernetes and AWS and I now enjoy systems thinking and coaching people.\n\nI am an active proponent of using automation to reduce toil for my fellow engineers, with a soft spot for standardised tooling and CI/CD. I love working with cross-disciplinary teams to create and deliver outcome-oriented roadmaps for mobile and web products.\n\nMy personal project is about self-hosting open source apps on a kubernetes cluster on my homelab using GitOps.",
     "location": {
       "city": "Victoria",
@@ -32,7 +32,7 @@
       "startDate": "2018-01-31",
       "url": "https://www.xero.com",
       "location": "Melbourne, Australia",
-      "summary": "People leadership was new to me, so I worked on it by being a process work and relying on data.",
+      "summary": "People leadership was new to me, so I worked on it by being a process wonk and relying on data.",
       "highlights": [
         "Introduced an engineering capability matrix so that engineers had the right skillsets to deliver on the mobile roadmap.",
         "Hired and grew 3 product teams; streamlined the hiring process and learnt how to manage vendors for contracting.",
