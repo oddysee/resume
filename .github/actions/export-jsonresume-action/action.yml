@@ -13,6 +13,12 @@ inputs:
       You can search for themes at https://npmsearch.com/?q=jsonresume-theme
     required: true
     default: 'flat'
+  theme_version:
+    description: |
+      JSONResume theme version
+      Updates to themes have a habit of breaking the CLI's output
+    required: true
+    default: '0.6.0'
   resume_filepath:
     description: |
       File path of the resume in JSONResume format
@@ -28,5 +34,6 @@ runs:
   image: '../../../Dockerfile'
   args:
     - ${{ inputs.theme }}
+    - ${{ inputs.theme_version }}
     - ${{ inputs.resume_filepath }}
     - ${{ inputs.output_filepath }}

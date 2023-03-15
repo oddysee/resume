@@ -12,7 +12,8 @@ jobs:
       - uses: ./.github/actions/export-jsonresume-action
         name: Export JSON resume as HTML
         with:
-          theme: flat
+          theme: even
+          theme_version: 0.6.0
           resume_filepath: resume.json
           output_filepath: docs/index.html
       - name: Commit published HTML
