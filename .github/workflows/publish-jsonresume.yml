@@ -1,5 +1,3 @@
-# example GitHub workflow
-
 name: Publish resume in JSONResume format as Github Page
  
 on:
@@ -7,23 +5,15 @@ on:
     branches: [ main ]
 
 jobs:
-  check_run:
-    runs-on: ubuntu-latest
-    if: "! contains(github.event.head_commit.message, '[ci skip]')"
-    steps:
-      - run: echo "${{ github.event.head_commit.message }}"
-
   build:
     runs-on: ubuntu-latest
-    needs: check_run
     steps:
-      - uses: actions/checkout@v2
-      - uses: kelvintaywl/action-jsonresume-export@v1
-        name: Export resume as HTML
+      - uses: actions/checkout@v3
+      - uses: .github/actions/export-jsonresume-action
+        name: Export JSON resume as HTML
         with:
           theme: flat
           resume_filepath: resume.json
-          # modifies the index.html in-place
           output_filepath: docs/index.html
       - name: Commit published HTML
         id: commit
