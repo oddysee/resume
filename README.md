@@ -36,7 +36,13 @@ resume serve
 
 ```sh
 docker build -t dev -f Dockerfile.dev .   
-docker run --rm -p 4000:4000 -it --init --mount type=bind,src="$(pwd)",target=/app dev resume serve
+docker run --rm -p 4000:4000 -it --init --mount type=bind,src="$(pwd)",target=/src dev
 ```
 
 And then, launch <http://localhost:4000/> on your browsers to view your resume.
+
+To publish locally
+
+```sh
+ docker run --rm --init --mount type=bind,src="$(pwd)",target=/app publish even@0.6.0 /app/resume.json /app/docs/index.html
+```

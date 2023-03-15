@@ -7,7 +7,8 @@ LABEL maintainer="Suman Jayapathi <sj@oddysee.com.au>"
 WORKDIR /app
 
 ENV PUPPETEER_SKIP_DOWNLOAD=true
-RUN npm install -g resume-cli@3.0.8
+RUN npm install -g --unsafe-perm resume-cli@3.0.8
+RUN npm install jsonresume-theme-even@0.6.0
 
-CMD [ "./resume serve" ]
+CMD [ "resume", "serve", "--resume", "/src/resume.json" ]
 EXPOSE 4000
