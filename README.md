@@ -31,3 +31,12 @@ npm install -g resume-cli@3.0.8
 ```sh
 resume serve
 ```
+
+### Docker development
+
+```sh
+docker build -t dev -f Dockerfile.dev .   
+docker run --rm -p 4000:4000 -it --init --mount type=bind,src="$(pwd)",target=/app dev resume serve
+```
+
+And then, launch <http://localhost:4000/> on your browsers to view your resume.
