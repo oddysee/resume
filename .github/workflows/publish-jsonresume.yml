@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: .github/actions/export-jsonresume-action
+      - uses: ./.github/actions/export-jsonresume-action
         name: Export JSON resume as HTML
         with:
           theme: flat
