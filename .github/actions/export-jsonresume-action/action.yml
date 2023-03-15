@@ -25,7 +25,7 @@ inputs:
     default: 'index.html'
 runs:
   using: 'docker'
-  image: 'Dockerfile'
+  image: '../../../Dockerfile'
   args:
     - ${{ inputs.theme }}
     - ${{ inputs.resume_filepath }}
