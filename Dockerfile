@@ -7,7 +7,7 @@ LABEL homepage="https://github.com/oddysee/resume"
 LABEL maintainer="Suman Jayapathi <sj@oddysee.com.au>"
 
 
-RUN npm install -g resume-cli@3.0.8
+RUN npm install -g --unsafe-perm resume-cli@3.0.8
 
 COPY entrypoint.sh /entrypoint.sh
 
