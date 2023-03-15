@@ -1,7 +1,4 @@
-ARG CLI_VERSION=3.0.8
-ARG NODE_VERSION=12
-
-FROM node:$NODE_VERSION
+FROM node:12
 
 LABEL repository="https://github.com/oddysee/resume"
 LABEL homepage="https://github.com/oddysee/resume"
@@ -10,7 +7,7 @@ LABEL maintainer="Suman Jayapathi <sj@oddysee.com.au>"
 WORKDIR /app
 
 ENV PUPPETEER_SKIP_DOWNLOAD=true
-RUN npm install -g resume-cli
+RUN npm install -g resume-cli@3.0.8
 
 CMD [ "./resume serve" ]
 EXPOSE 4000

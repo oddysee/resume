@@ -3,7 +3,7 @@ name: 'JSONResume Export'
 description: 'Simple GitHub Action to export your JSONResume'
 branding:
   icon: 'printer'
-  color: 'yellow'
+  color: 'blue'
 inputs:
   theme:
     description: |

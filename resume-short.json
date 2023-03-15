@@ -1,0 +1,203 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Suman Jayapathi",
+    "label": "Team Lead - Engineering at Xero",
+    "image": "img/portrait.png",
+    "email": "sumanjay@yahoo.com",
+    "phone": "+61 401 832 841",
+    "url": "https://oddysee.github.io/resume/",
+    "summary": "I am a Team Lead/Engineering Manager with 10+ years experience across Fintech, energy and consulting. I've worked with iOS, .NET, Kubernetes and AWS and I now enjoy systems thinking and coaching people.\n\nI am an active proponent of using automation to reduce toil for my fellow engineers, with a soft spot for standardised tooling and CI/CD. I love working with cross-disciplinary teams to create and deliver outcome-oriented roadmaps for mobile and web products.\n\nMy personal project is about self-hosting open source apps on a kubernetes cluster on my homelab using GitOps.",
+    "location": {
+      "city": "Victoria",
+      "region": "Australia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "suman-jayapathi",
+        "url": "https://www.linkedin.com/in/suman-jayapathi/"
+      },
+      {
+        "network": "Github",
+        "username": "oddysee",
+        "url": "https://github.com/oddysee/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Xero",
+      "position": "Team Lead - Engineering",
+      "startDate": "2018-01-31",
+      "url": "https://www.xero.com",
+      "location": "Melbourne, Australia",
+      "summary": "People leadership was new to me, so I worked on it by being a process wonk and relying on data.",
+      "highlights": [
+        "Introduced an engineering capability matrix so that engineers had the right skillsets to deliver on the mobile roadmap.",
+        "Hired and grew 3 product teams; streamlined the hiring process and learnt how to manage vendors for contracting.",
+        "Established quality and delivery practices for engineers based on Accelerate principles and DORA metrics.",
+        "Represented engineering on strategy roll-out, driving the design and deployment of a prioritisation framework across 6 teams."
+      ]
+    },
+    {
+      "name": "Xero",
+      "position": "Senior iOS Engineer",
+      "startDate": "2016-01-31",
+      "endDate": "2017-12-31",
+      "url": "https://www.xero.com",
+      "location": "Melbourne, Australia",
+      "summary": "As one of the more experienced engineers, I brought technical leadership and customer-focus to a newly established mobile team.",
+      "highlights": [
+        "Mentored mobile engineers through the migration of a large codebase from Objective C to Swift 2.",
+        "Created a containerised tool for path-to-production compliance that was adopted across the organisation.",
+        "Led a Python community of practice to spread awareness and encourage adoption of Python at Xero"
+      ]
+    },
+    {
+      "name": "CitiPower and Powercor",
+      "position": "Lead Engineer - Mobile and API",
+      "startDate": "2014-03-31",
+      "endDate": "2015-12-31",
+      "highlights": [
+        "Built an augmented reality app using geo-spatial data to overlay overhead and underground cabling specs for field crew",
+        "Developed an OH&S app using iBeacon (iOS) technology, which was recognised for championing a core cultural value of the organisation."
+      ],
+      "url": "https://www.powercor.com.au/"
+    },
+    {
+      "name": "Liberty Financial Pty Ltd",
+      "position": "Full Stack Mobile Engineer",
+      "startDate": "2008-03-31",
+      "endDate": "2014-02-28",
+      "url": "https://www.liberty.com.au/",
+      "summary": "Liberty is a low-doc lender that pioneered mobile apps for brokers to evaluate and submit mortgage applications.",
+      "highlights": [
+        "Foundationary member of iOS development at Liberty, which resulted in Liberty's nomination for Best Innovator at Australian Lending Awards in 2013.",
+        "Set up continuous integration for iOS development."
+      ]
+    },
+    {
+      "name": "DWS",
+      "position": ".NET Consultant",
+      "startDate": "2006-01-31",
+      "endDate": "2008-02-28",
+      "url": "https://www.dws.com.au/",
+      "location": "Melbourne, Victoria, Australia",
+      "highlights": []
+    },
+    {
+      "name": "Tech Mahindra (formerly Mahindra Satyam)",
+      "position": "Software Developer",
+      "startDate": "2005-01-31",
+      "endDate": "2006-01-31",
+      "url": "https://www.techmahindra.com/",
+      "location": "Melbourne, Victoria, Australia",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Waverley Raiders Basketball Club",
+      "position": "Team Manager - Boys U12 team 2",
+      "url": "https://www.waverleyraiders.com.au/",
+      "startDate": "2022-07-01",
+      "summary": "Basketball team in the Melbourne East Basketball Association league.",
+      "highlights": [
+        "Team made it to the Grand Finals of the Winter Season 2022"
+      ]
+    },
+
+    {
+      "organization": "Mount View Primary School",
+      "position": "BikeEd instructor",
+      "url": "https://mountviewps.vic.edu.au/",
+      "startDate": "2022-12-01",
+      "summary": "Teaching 9-10 year old students about safety and health through cycling.",
+      "highlights": [
+        "Coached year 4 students through a 50km cycling expedition."
+      ]
+    }
+  ],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "People Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Delivery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iOS development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Okoo",
+      "description": "A childcare management application that provided childcare centre managers and on-call workers with a mobile and user-friendly way to manage their rosters.",
+      "highlights": [
+        "Experimented with and adopted Fastlane to simplify CI"
+      ],
+      "keywords": [
+        "Swift",
+        "iOS",
+        "Push notifications"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2017-08-24",
+      "roles": [
+        "Lead iOS Engineer",
+        "Designer"
+      ],
+      "entity": "Okoo Pty Ltd",
+      "type": "application"
+    },
+    {
+      "name": "SuperSportVideos",
+      "description": "Online store for marathon runners to get their personalised video snippets of completing the marathon",
+      "highlights": [
+        "Automated creation of AWS EC2 instances to run ffmpeg in parallel for video processing.",
+        "Python services to publish products to Shopify"
+      ],
+      "keywords": [
+        "Shopify",
+        "AWS",
+        "Python"
+      ],
+      "startDate": "2013-06-01",
+      "endDate": "2014-08-24",
+      "roles": [
+        "Developer"
+      ],
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "flat"
+  }
+}
