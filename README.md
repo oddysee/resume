@@ -46,3 +46,13 @@ To publish locally
 ```sh
  docker run --rm --init --mount type=bind,src="$(pwd)",target=/app publish even@0.6.0 /app/resume.json /app/docs/index.html
 ```
+
+## Exporting as PDF
+
+```sh
+npm init -y
+npm i
+npm i resume-cl
+npm i jsonresume-theme-even@0.6.0
+npx resume export --resume resume.json --theme even --format pdf export/suman_jayapathi_resume.pdf
+```
