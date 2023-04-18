@@ -186,12 +186,7 @@
       "keywords": []
     },
     {
-      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "User Experience",
+      "name": "CI/CD",
       "level": "",
       "keywords": []
     }
@@ -213,7 +208,7 @@
     {
       "name": "Basketball",
       "keywords": [
-        "NBA",
+        "Team Management",
         "Coaching"
       ]
     }
