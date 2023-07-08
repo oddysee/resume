@@ -24,9 +24,9 @@ jobs:
           if [ -n "$(git status --porcelain docs/index.html)" ]; then
             git add docs/index.html
             git commit -m "[ci skip] chore(docs/index.html): update resume page"
-            echo ::set-output name=exit_code::0
+            echo exit_code=0 >> $GITHUB_OUTPUT
           else
-            echo ::set-output name=exit_code::1
+            echo exit_code=1 >> $GITHUB_OUTPUT
           fi
       - name: Push changes
         uses: ad-m/github-push-action@master
