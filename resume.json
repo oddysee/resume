@@ -7,7 +7,7 @@
     "email": "suman@jayapathi.com",
     "phone": "+61 401 832 841",
     "url": "https://oddysee.github.io/resume/",
-    "summary": "I am a Team Lead/Engineering Manager with 10+ years experience across Fintech, energy and consulting. I've worked with iOS, .NET, Kubernetes and AWS and I now enjoy systems thinking and coaching people.\n\nI am an active proponent of using automation to reduce toil for my fellow engineers, with a soft spot for standardised tooling and CI/CD. I love working with cross-disciplinary teams to create and deliver outcome-oriented roadmaps for mobile and web products.\n\nMy personal project is about self-hosting open source apps on a kubernetes cluster on my homelab using GitOps.",
+    "summary": "I am a Team Lead/Engineering Manager with 10+ years' experience across Fintech, energy and consulting. I've worked with iOS, .NET, Kubernetes and AWS and I now enjoy systems thinking and coaching people.\n\nI am an active proponent of using automation to reduce toil for my fellow engineers, with a soft spot for standardised tooling and CI/CD. I love working with cross-disciplinary teams to create and deliver outcome-oriented roadmaps for mobile and web products.\n\nMy personal project is about self-hosting open-source apps on a Kubernetes cluster on my home-lab using GitOps.",
     "location": {
       "city": "Victoria",
       "region": "Australia"
@@ -112,7 +112,7 @@
       "position": "BikeEd instructor",
       "url": "https://mountviewps.vic.edu.au/",
       "startDate": "2022-12-01",
-      "summary": "Teaching 9-10 year old students about safety and health through cycling.",
+      "summary": "Instructed Year 4 students about safety and health through cycling.",
       "highlights": [
         "Coached year 4 students through a 50km cycling expedition."
       ]
@@ -259,6 +259,6 @@
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
     "lastModified": "2017-12-24T15:53:00",
-    "theme": "flat"
+    "theme": "even"
   }
 }
